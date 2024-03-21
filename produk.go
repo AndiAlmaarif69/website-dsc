@@ -1,3 +1,3 @@
 package main
 
-// produk untuk catalog
+// ini adalah fitur produk untuk catalog
